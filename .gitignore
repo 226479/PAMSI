@@ -1,0 +1,5 @@
+cmake-build-*
+[Bb]uild
+.*
+!/.gitignore
+Data_Output/*

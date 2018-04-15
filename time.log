@@ -1,0 +1,172 @@
+[ 22%] Built target Helpers
+[ 77%] Built target Algorithms
+[100%] Built target PAMSI
+
+Data/random_10
+ Quick: 0.0000002496
+ Merge: 0.0000004616
+ Hybrid: 0.0000000779
+ Heap: 0.0000001969
+
+Data/random_100
+ Quick: 0.0000023181
+ Merge: 0.0000040008
+ Hybrid: 0.0000005448
+ Heap: 0.0000030504
+
+Data/random_1000
+ Quick: 0.0000357067
+ Merge: 0.0000609885
+ Hybrid: 0.0000104756
+ Heap: 0.0000622609
+
+Data/random_10000
+ Quick: 0.0003523159
+ Merge: 0.0005665224
+ Hybrid: 0.0001202881
+ Heap: 0.0007856392
+
+Data/random_100000
+ Quick: 0.0048754355
+ Merge: 0.0090663026
+ Hybrid: 0.0015019490
+ Heap: 0.0092356374
+
+Data/random_1000000
+ Quick: 0.0530444570
+ Merge: 0.1338663745
+ Hybrid: 0.0389635356
+ Heap: 0.1538449949
+
+Data/random_10000000
+ Quick: 0.4847639445
+ Merge: 0.8017014327
+ Hybrid: 0.2409883819
+ Heap: 1.3153185818
+
+Data/identical_10
+ Quick: 0.0000002119
+ Merge: 0.0000006544
+ Hybrid: 0.0000000854
+ Heap: 0.0000001621
+
+Data/identical_100
+ Quick: 0.0000016491
+ Merge: 0.0000065753
+ Hybrid: 0.0000004741
+ Heap: 0.0000008411
+
+Data/identical_1000
+ Quick: 0.0000313642
+ Merge: 0.0001058314
+ Hybrid: 0.0000065568
+ Heap: 0.0000042528
+
+Data/identical_10000
+ Quick: 0.0001850952
+ Merge: 0.0008403904
+ Hybrid: 0.0001679542
+ Heap: 0.0000743194
+
+Data/identical_100000
+ Quick: 0.0023649113
+ Merge: 0.0060969113
+ Hybrid: 0.0013053846
+ Heap: 0.0005163060
+
+Data/identical_1000000
+ Quick: 0.0343200958
+ Merge: 0.0810095399
+ Hybrid: 0.0164278488
+ Heap: 0.0048810180
+
+Data/identical_10000000
+ Quick: 0.2907808971
+ Merge: 0.6749413904
+ Hybrid: 0.1864922700
+ Heap: 0.0553684626
+
+Data/sorted_10
+ Quick: 0.0000002133
+ Merge: 0.0000006574
+ Hybrid: 0.0000000928
+ Heap: 0.0000001717
+
+Data/sorted_100
+ Quick: 0.0000011925
+ Merge: 0.0000051883
+ Hybrid: 0.0000002899
+ Heap: 0.0000028876
+
+Data/sorted_1000
+ Quick: 0.0000123955
+ Merge: 0.0000638151
+ Hybrid: 0.0000079857
+ Heap: 0.0000903414
+
+Data/sorted_10000
+ Quick: 0.0002506793
+ Merge: 0.0005789379
+ Hybrid: 0.0000716271
+ Heap: 0.0009601499
+
+Data/sorted_100000
+ Quick: 0.0024690919
+ Merge: 0.0062508104
+ Hybrid: 0.0011353100
+ Heap: 0.0102522893
+
+Data/sorted_1000000
+ Quick: 0.0226112096
+ Merge: 0.0606525145
+ Hybrid: 0.0124492272
+ Heap: 0.0947384417
+
+Data/sorted_10000000
+ Quick: 0.2607655615
+ Merge: 0.7031141995
+ Hybrid: 0.1682131104
+ Heap: 1.0889244169
+
+Data/reversely_sorted_10
+ Quick: 0.0000002772
+ Merge: 0.0000007159
+ Hybrid: 0.0000000972
+ Heap: 0.0000002591
+
+Data/reversely_sorted_100
+ Quick: 0.0000019025
+ Merge: 0.0000064687
+ Hybrid: 0.0000005039
+ Heap: 0.0000037742
+
+Data/reversely_sorted_1000
+ Quick: 0.0000195050
+ Merge: 0.0000839588
+ Hybrid: 0.0000081701
+ Heap: 0.0001014180
+
+Data/reversely_sorted_10000
+ Quick: 0.0002486864
+ Merge: 0.0021117148
+ Hybrid: 0.0032208852
+ Heap: 0.0010400160
+
+Data/reversely_sorted_100000
+ Quick: 0.0031532092
+ Merge: 0.0096813096
+ Hybrid: 0.0013169724
+ Heap: 0.0095718207
+
+Data/reversely_sorted_1000000
+ Quick: 0.0342633065
+ Merge: 0.0814999795
+ Hybrid: 0.0163029062
+ Heap: 0.1092921324
+
+Data/reversely_sorted_10000000
+ Quick: 0.2432170252
+ Merge: 0.7495614558
+ Hybrid: 0.1682539896
+ Heap: 1.1636245519
+[100%] Built target run
